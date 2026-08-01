@@ -1,29 +1,669 @@
-<h1>Hii I am Probal Dhali</h1>
+<div align="center">
 
-# 💫 About Me:
-🔭 I’m currently working on building Machine Learning projects and strengthening my problem-solving skills<br><br>👯 I’m looking to collaborate on AI/ML projects, open-source contributions, and innovative tech solutions<br><br>🤝 I’m looking for help with advanced Machine Learning concepts and real-world project optimization<br><br>🌱 I’m currently learning Data Structures & Algorithms, Deep Learning, and Cloud Technologies<br><br>💬 Ask me about Python, C++, DSA, and basics of Machine Learning<br><br>⚡ Fun fact: I enjoy turning complex problems into simple, efficient code<br>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Probal Dhali
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Open+Source+Contributor;Python+Developer;React+Developer;Building+Creative+Solutions;Welcome+to+My+GitHub+Profile!" />
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1DiQUmxQsQ/?mibextid=wwXIfr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/probal.dhali.2005?igsh=dTFybWI5NGJ5a2Zr&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/probal-dhali-a7569934a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:probaldhali2006@gmail.com) 
+# 👋 Welcome to My GitHub
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=probal2005&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=probal2005&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=probal2005&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://github.com/Probal2005)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=probal2005&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Probal+Dhali;AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Open+Source+Contributor;Welcome+to+my+GitHub+Profile!" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=probal2005&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=probal2005&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👨‍💻 About Me
+
+<img align="right" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+### 🚀 Who Am I?
+
+🎓 **B.Tech CSE (Artificial Intelligence & Machine Learning)**  
+🏫 **Chandigarh University**
+
+💻 Passionate Full Stack Developer who loves building beautiful web applications and AI-powered solutions.
+
+🤖 Interested in
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Natural Language Processing
+- Web Development
+- Open Source
+- Linux
+
+🌱 Currently Learning
+
+- Advanced Machine Learning
+- Computer Vision
+- Deep Learning
+- System Design
+- Docker
+- Cloud Computing
+
+💬 Ask me about
+
+- Python
+- JavaScript
+- React
+- HTML
+- CSS
+- AI & ML
+- Git
+- Linux
+
+⚡ Fun Fact
+
+> I love turning creative ideas into real-world software and continuously learning new technologies.
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Probal2005">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://probal2005.github.io">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💻 Tech Stack
+
+## 🚀 Programming Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=cpp" />
+<img src="https://skillicons.dev/icons?i=c" />
+<img src="https://skillicons.dev/icons?i=js" />
+<img src="https://skillicons.dev/icons?i=ts" />
+
+</p>
+
+---
+
+## 🌐 Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=bootstrap" />
+<img src="https://skillicons.dev/icons?i=tailwind" />
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=vite" />
+
+</p>
+
+---
+
+## ⚙️ Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=express" />
+<img src="https://skillicons.dev/icons?i=flask" />
+<img src="https://skillicons.dev/icons?i=django" />
+<img src="https://skillicons.dev/icons?i=fastapi" />
+
+</p>
+
+---
+
+## 🗄️ Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=firebase" />
+
+</p>
+
+---
+
+## 🤖 AI / ML
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+<img src="https://skillicons.dev/icons?i=pytorch" />
+<img src="https://skillicons.dev/icons?i=opencv" />
+
+</p>
+
+---
+
+## 🛠️ Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=linux" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=figma" />
+<img src="https://skillicons.dev/icons?i=docker" />
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 "Code. Learn. Build. Share. Repeat."
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:0072FF&height=3"/>
+
+</div>
+---
+
+# 📊 GitHub Dashboard
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Probal2005&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Probal2005&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+---
+
+# 📈 Most Used Languages
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Probal2005&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Probal2005&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Probal2005&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+> **Note:** The snake animation requires a GitHub Action in your profile repository to generate automatically.
+
+---
+
+# 📅 Coding Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Probal2005&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📊 GitHub Summary Cards
+
+<div align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Probal2005&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Probal2005&theme=tokyonight"/>
+
+<img width="32%" src="
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+### 💼 Some of my favorite projects
+
+*Building AI-powered applications, modern websites, and useful software solutions.*
+
+</div>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🌐 Portfolio Website
+
+Personal portfolio showcasing my projects, skills, experience and achievements.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript`
+
+**Repository**
+
+https://github.com/Probal2005/probal2005.github.io
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI Resume Pro
+
+AI-powered Resume Builder that helps users create professional resumes.
+
+**Tech Stack**
+
+`React` `JavaScript` `CSS`
+
+**Repository**
+
+https://github.com/Probal2005/ai-resume-pro
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 🏥 MediCore
+
+Healthcare Management System with modern UI and advanced features.
+
+**Tech Stack**
+
+`HTML`
+`CSS`
+`JavaScript`
+
+**Repository**
+
+https://github.com/Probal2005/MediCore
+
+</td>
+
+<td>
+
+### 🛒 NexMart
+
+Modern responsive E-Commerce Website.
+
+**Tech Stack**
+
+`HTML`
+`CSS`
+`JavaScript`
+
+**Repository**
+
+https://github.com/Probal2005/NexMart
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 🚪 NexDoor
+
+Smart Community Management Website.
+
+**Tech Stack**
+
+`HTML`
+`CSS`
+`JavaScript`
+
+**Repository**
+
+https://github.com/Probal2005/NexDoor
+
+</td>
+
+<td>
+
+### 🌍 Digital World Clock
+
+A beautiful multi-timezone digital clock.
+
+**Tech Stack**
+
+`HTML`
+`CSS`
+`JavaScript`
+
+**Repository**
+
+https://github.com/Probal2005/Digital-World-Clock
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 📚 Open Library
+
+Online Library Management System with modern interface.
+
+**Tech Stack**
+
+`Python`
+`Flask`
+`SQLite`
+
+**Repository**
+
+https://github.com/Probal2005
+
+</td>
+
+<td>
+
+### 👤 Face Recognition Attendance
+
+AI-based Student Attendance System using Face Recognition.
+
+**Tech Stack**
+
+`Python`
+`OpenCV`
+`Machine Learning`
+
+**Repository**
+
+https://github.com/Probal2005/Student-Attendance-System-using-Face-Recognition
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 📄 IEEE Paper HTML Template
+
+Professional IEEE Paper Template built using HTML & CSS.
+
+**Tech Stack**
+
+`HTML`
+`CSS`
+
+**Repository**
+
+https://github.com/Probal2005/ieee-paper-html-template
+
+</td>
+
+<td>
+
+### 💼 Resume Templates
+
+Collection of modern professional resume templates.
+
+**Tech Stack**
+
+`HTML`
+`CSS`
+
+**Repository**
+
+https://github.com/Probal2005/resume-3Page-modern
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 🎨 JavaScript Projects
+
+Collection of interactive JavaScript mini projects.
+
+**Tech Stack**
+
+`HTML`
+`CSS`
+`JavaScript`
+
+**Repository**
+
+https://github.com/Probal2005/JavaScript-Projects
+
+</td>
+
+<td>
+
+### 🤖 AI & Research Projects
+
+Innovative AI, ML, and research-based experimental projects.
+
+**Topics**
+
+Artificial Intelligence
+
+Machine Learning
+
+Computer Vision
+
+Deep Learning
+
+Open Source
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# ⭐ Favorite Repositories
+
+|
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+🥇 B.Tech Student (Computer Science Engineering - AI & ML)
+
+🤖 Passionate Artificial Intelligence & Machine Learning Developer
+
+💻 Full Stack Web Developer
+
+🚀 Open Source Contributor
+
+🌐 50+ Web Development Projects
+
+📚 Continuous Learner
+
+🔬 AI Research Enthusiast
+
+🎯 Building Real-World Software Solutions
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+```text
+🤖 Artificial Intelligence
+████████████████████ 100%
+
+🧠 Machine Learning
+██████████████████░░ 90%
+
+🌐 Full Stack Development
+██████████████████░░ 90%
+
+⚛️ React Development
+█████████████████░░░ 85%
+
+🐍 Python Development
+████████████████████ 100%
+
+🐧 Linux
+██████████████████░░ 90%
+
+☁️ Cloud Computing
+██████████████░░░░░░ 70%
+
+🐳 Docker
+█████████████░░░░░░░ 65%
+```
+
+---
+
+# 📚 Currently Learning
+
+- 🤖 Artificial Intelligence
+- 🧠 Deep Learning
+- 👁 Computer Vision
+- 💬 Natural Language Processing
+- ⚛️ Advanced React
+- 🐳 Docker
+- ☁️ Cloud Computing
+- 🔐 Cyber Security
+- ⚙️ System Design
+- 📊 Data Science
+
+---
+
+# 🌟 Goals for 2026
+
+- ✅ Build impactful AI applications
+- ✅ Contribute to Open Source regularly
+- ✅ Publish research projects
+- ✅ Master Full Stack Development
+- ✅ Learn Cloud & DevOps
+- ✅ Solve 500+ coding problems
+- ✅ Create developer tools
+- ✅ Grow my GitHub portfolio
+- ✅ Collaborate on innovative projects
+
+---
+
+# 💼 Services
+
+✔️ AI & Machine Learning Projects
+
+✔️ Portfolio Websites
+
+✔️ Responsive Web Applications
+
+✔️ Python Development
+
+✔️ React Development
+
+✔️ Frontend UI Design
+
+✔️ Backend Development
+
+✔️ API Integration
+
+✔️ Open Source Contributions
+
+---
+
+# 💡 Fun Facts
+
+- ☕ Coffee makes coding more enjoyable.
+- 💻 I enjoy building creative web applications.
+- 🤖 I love exploring AI and Machine Learning.
+- 🌍 I enjoy learning new technologies.
+- 🚀 Every project teaches me something new.
+- 📚 I believe learning never stops.
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Probal2005">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://probal2005.github.io">
+<img src="https://img.shields.io/badge/Portfolio-Visit-00C853?style=for-the-badge&logo=google-chrome"/>
+</a>
+
+</div>
+
+---
+
+# ❤️ Support My Work
+
+If you like my projects and find them useful:
+
+⭐ Star my repositories
+
+🍴 Fork my projects
+
+👨‍💻 Follow me on GitHub
+
+💬 Share feedback and ideas
+
+🤝 Let's collaborate on exciting projects!
+
+---
+
+<div align="center">
+
+# 💖 Thank You for Visiting!
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!;Let's+Build+Something+Amazing!;Happy+Coding!+🚀" />
+
+### ⭐ Don't forget to Star your favorite repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0072FF,100:6A5ACD&height=180&section=footer"/>
+
+</div>
