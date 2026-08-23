@@ -1,17 +1,8 @@
-<div align="center">
-
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Probal Dhali
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Open+Source+Contributor;Python+Developer;React+Developer;Building+Creative+Solutions;Welcome+to+My+GitHub+Profile!" />
-
-
-# 👋 Welcome to My GitHub
-
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://github.com/Probal2005)
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Probal+Dhali;AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Open+Source+Contributor;Welcome+to+my+GitHub+Profile!" />
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="probal2005's GitHub profile" src="dark_mode.svg" />
+</picture>
 
 ---
 
