@@ -1,99 +1,111 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Probal+Dhali+%F0%9F%91%8B;AI%2FML+%7C+Software+Development+%7C+Open+Source;Build+%7C+Learn+%7C+Contribute" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&color=gradient" width="100%" />
-</p>
-
-<p align="center">
-  <b>CSE Student • AI/ML • Software Development</b>
-</p>
-
-<p align="center">
-  I build practical projects across Artificial Intelligence, Machine Learning,<br>
-  Web Development, and Software Engineering.
-</p>
-
----
-
-## 🧑‍💻 About
-
-* 🎓 **Chandigarh University**
-* 🤖 Focused on **AI/ML & Software Development**
-* 🌐 Building **web and full-stack applications**
-* 🐧 Comfortable working with **Linux & Git**
-* 🌱 Learning through **real projects and open-source work**
-
----
-
-## ⚡ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,html,css,react,vite,nodejs,express,fastapi,mongodb,mysql,git,github,linux,vscode,docker&perline=9" />
-</p>
-
----
-
-## 🚀 Latest Work
-
-<!-- PROJECTS:START -->
-
-| Project | Description | Language | Stars |
-|---|---|---|---:|
-| [Probal2005](https://github.com/probal2005/Probal2005) | No description provided. | — | 2 |
-| [BI-Lab-5th-Sem-CU](https://github.com/probal2005/BI-Lab-5th-Sem-CU) | Business Intelligence (BI) Lab experiments for B.Tech CSE (AI & ML) 5th Semester. Features data warehousing, ETL pipelin | — | 1 |
-| [Simple-Calculator-Made-by-Mr.-Probal](https://github.com/probal2005/Simple-Calculator-Made-by-Mr.-Probal) | A responsive phone-like calculator web application using HTML, CSS, and JavaScript. Supports basic arithmetic with a cle | HTML | 2 |
-| [QR-Code-Generator](https://github.com/probal2005/QR-Code-Generator) | No description provided. | HTML | 2 |
-| [dev-portfolio-website](https://github.com/probal2005/dev-portfolio-website) | A modern, responsive personal portfolio website created by Mr. Probal Dhali | HTML | 2 |
-| [face_recognition_project](https://github.com/probal2005/face_recognition_project) | A face recognition project | Python | 2 |
-
-<!-- PROJECTS:END -->
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=probal2005&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=probal2005&layout=compact&langs_count=8&hide_border=true"
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=probal2005&hide_border=true"
-    height="180"
-  />
-</p>
-
----
-
-## 🔗 Connect
-
-<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=180&section=header&text=Probal%20Dhali&fontColor=ffffff&fontSize=50&fontAlignY=36&animation=fadeIn&desc=CSE%20Student%20%E2%80%A2%20AI%20%2F%20ML%20%E2%80%A2%20Software%20Development&descSize=17&descAlignY=58" alt="Probal Dhali" />
 
 <a href="https://github.com/probal2005">
-<img src="https://img.shields.io/badge/GitHub-probal2005-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=0072FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Probal+%F0%9F%91%8B;Building+practical+AI+%26+Web+projects;Python+%E2%80%A2+C%2B%2B+%E2%80%A2+DSA+%E2%80%A2+React;Learning+by+building.+Improving+every+day." alt="Typing intro" />
 </a>
 
-<a href="https://probal2005.github.io">
-<img src="https://img.shields.io/badge/Portfolio-Visit-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
+<br/><br/>
 
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-probal2005-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/probal2005)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0072FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://probaldhali.vercel.app/)
+![Views](https://komarev.com/ghpvc/?username=probal2005&label=Profile%20views&color=0072FF&style=for-the-badge)
 
----
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Building+useful+software.;Learning+by+building.;Contributing+to+open+source." />
-</p>
+<img src="divider.svg" width="100%" alt="" />
 
-<p align="center">
-  <sub>Building • Learning • Improving</sub>
-</p>
+## 👨‍💻 About
+
+<div align="center">
+  <img src="about-terminal.svg" alt="About Probal" width="760" />
+</div>
+
+<img src="divider.svg" width="100%" alt="" />
+
+## ⚡ Skills
+
+<div align="center">
+  <img src="focus-marquee.svg" alt="Focus areas" width="880" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,html,css,react,nodejs,flask,opencv,tensorflow,pytorch,git,github,linux,docker,vscode&perline=9" alt="Tech stack" />
+</div>
+
+<img src="divider.svg" width="100%" alt="" />
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/probal2005/Student-Attendance-System-using-Face-Recognition">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=probal2005&repo=Student-Attendance-System-using-Face-Recognition&theme=tokyonight&hide_border=true&border_radius=12" alt="Face Recognition Attendance" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/probal2005/NexMart">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=probal2005&repo=NexMart&theme=tokyonight&hide_border=true&border_radius=12" alt="NexMart" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/probal2005/NexOS">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=probal2005&repo=NexOS&theme=tokyonight&hide_border=true&border_radius=12" alt="NexOS" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/probal2005/ai-resume-pro">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=probal2005&repo=ai-resume-pro&theme=tokyonight&hide_border=true&border_radius=12" alt="AI Resume Pro" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+[**View all repositories →**](https://github.com/probal2005?tab=repositories)
+
+</div>
+
+<img src="divider.svg" width="100%" alt="" />
+
+## 📊 GitHub Stats (live)
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=probal2005&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=probal2005&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=probal2005&theme=tokyonight&hide_border=true&border_radius=12" alt="Streak stats" />
+
+</div>
+
+<img src="divider.svg" width="100%" alt="" />
+
+## 📈 Contributions
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=probal2005&theme=tokyo-night&hide_border=true&area=true&radius=12" alt="Activity graph" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Probal2005/Probal2005/output/github-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Probal2005/Probal2005/output/github-snake.svg" />
+</picture>
+
+</div>
+
+<img src="divider.svg" width="100%" alt="" />
+
+## 🔄 Recent Activity (auto-updated)
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=100&section=footer&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=22&fontAlignY=65&animation=fadeIn" alt="" />
+
+</div>
