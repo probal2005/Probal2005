@@ -23,6 +23,15 @@ I build practical projects across **AI/ML, web development, and software enginee
 
 <!-- PROJECTS:START -->
 
+| Project | Description | Language | Stars |
+|---|---|---|---:|
+| [Probal2005](https://github.com/probal2005/Probal2005) | No description provided. | — | 2 |
+| [BI-Lab-5th-Sem-CU](https://github.com/probal2005/BI-Lab-5th-Sem-CU) | Business Intelligence (BI) Lab experiments for B.Tech CSE (AI & ML) 5th Semester. Features data warehousing, ETL pipelin | — | 1 |
+| [Simple-Calculator-Made-by-Mr.-Probal](https://github.com/probal2005/Simple-Calculator-Made-by-Mr.-Probal) | A responsive phone-like calculator web application using HTML, CSS, and JavaScript. Supports basic arithmetic with a cle | HTML | 2 |
+| [QR-Code-Generator](https://github.com/probal2005/QR-Code-Generator) | No description provided. | HTML | 2 |
+| [dev-portfolio-website](https://github.com/probal2005/dev-portfolio-website) | A modern, responsive personal portfolio website created by Mr. Probal Dhali | HTML | 2 |
+| [face_recognition_project](https://github.com/probal2005/face_recognition_project) | A face recognition project | Python | 2 |
+
 <!-- PROJECTS:END -->
 
 ---
