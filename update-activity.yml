@@ -1,0 +1,21 @@
+name: Update Recent Activity
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # every 30 minutes
+  workflow_dispatch:          # lets you run it manually
+
+permissions:
+  contents: write
+
+jobs:
+  update-activity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: jamesgeorge007/github-activity-readme@master
+        with:
+          GH_USERNAME: probal2005
+          MAX_LINES: 6
+          COMMIT_MSG: "docs: update recent activity"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
