@@ -88,11 +88,27 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=probal2005&theme=tokyo-night&hide_border=true&area=true&radius=12" alt="Activity graph" />
+<img
+width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=probal2005&theme=tokyo-night&hide_border=true&area=true&radius=12"
+alt="GitHub Activity Graph"
+/>
+
+<br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Probal2005/Probal2005/output/github-snake-dark.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Probal2005/Probal2005/output/github-snake.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Probal2005/Probal2005/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Probal2005/Probal2005/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Probal2005/Probal2005/output/github-snake.svg"
+  />
 </picture>
 
 </div>
