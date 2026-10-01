@@ -74,36 +74,6 @@
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=probal2005&area=true&hide_border=true"
-    width="100%"
-  />
-</p>
-
----
-
-## 🐍 Contributions
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/probal2005/Probal2005/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/probal2005/Probal2005/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/probal2005/Probal2005/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
----
-
 ## 🔗 Connect
 
 <p align="center">
